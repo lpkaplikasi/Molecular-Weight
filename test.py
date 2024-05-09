@@ -6,7 +6,7 @@ berat = {'H': 1.007, 'He': 4.002, 'Li': 6.94, 'Be': 9.012, 'B': 10.81, 'C': 12.0
 st.title("Penghitung Berat Unsur Kimia")
 
 # Menampilkan logo aplikasi
-st.image("https://github.com/lpkaplikasi/Molecular-Weight/blob/main/logo%20aplikasi.png",caption='tampilkan semua background logo')
+st.image("https://github.com/lpkaplikasi/Molecular-Weight/blob/main/logo%20aplikasi.png",caption='tampilkan logo')
 
 
 # Mengambil input berupa unsur kimia dan jumlah mol
