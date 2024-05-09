@@ -6,7 +6,7 @@ berat = {'H': 1.007, 'He': 4.002, 'Li': 6.94, 'Be': 9.012, 'B': 10.81, 'C': 12.0
 st.title("Penghitung Berat Unsur Kimia")
 
 # Menampilkan logo aplikasi
-![alt.text](logo aplikasi.png?raw=true)
+![alt.text](https://logo aplikasi.png?raw=true)
 
 
 # Mengambil input berupa unsur kimia dan jumlah mol
